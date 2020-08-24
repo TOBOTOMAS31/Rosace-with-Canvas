@@ -6,7 +6,7 @@ canvas.height = window.innerHeight;
 let x = 0;
 let y = 0;
 let tour = 0;
-// avoir le centre du canvas pour que ce que l'on déssine soir au centre du canvas
+// avoir le centre du canvas pour que ce que l'on déssine soit au centre du canvas
 ctx.translate(innerWidth/2, innerHeight/2);
 
 function dessin() {
